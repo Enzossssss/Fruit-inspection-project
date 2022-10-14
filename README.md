@@ -12,26 +12,12 @@ The following packages are needed:
 
 ## Description
 
-The overall tasks are developed in ``product_recognition.ipynb``.
+The overall tasks are developed in ``fruit-inspection.ipynb``.
 
-The two class ``FeatureMatcher`` and ``MultipleInstanceMatcher``, contained in ``matcher.py``, are explained step by step in ``workflow.ipynb``.
+The ``utils.py`` file contain all used functions.
 
 ## Report
 
-You can read and download our report [here](./report/cv_report.pdf).
+You can read and download our report [here](./report/Fruit_inspection_report.pdf).
 
-You can read the project assignment [here](./report/product-recognition-on-store-shelves.pdf).
-
-## Result
-
-### Step A - Single Product Detection
-
-<img src="./images/results/e2.png" height="180" width="401,5" >
-
-### Step B - Multiple Product Detection
-
-<img src="./images/results/m2.png" height="180" width="406" >
-
-### Step C - Multiple Product Detection
-
-<img src="./images/results/h5.jpg" height="360" width="480" >
+You can read the project assignment [here](./report/fruit-inspection.pdf).
